@@ -1,4 +1,4 @@
-### Hi there  👋 I'm [Bimalka](www.linkedin.com/in/bimalka-piyaruwan)👨‍🦱
+### Hi there  👋 I'm [Bimalka](https://www.linkedin.com/in/bimalka-piyaruwan)👨‍🦱
 
 **Languages:** 
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png"></code>
