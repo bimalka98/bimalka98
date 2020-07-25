@@ -1,4 +1,10 @@
 ### Hi there  👋 I'm [Bimalka](https://www.linkedin.com/in/bimalka-piyaruwan)👨‍🦱
+#### An Undergraduate👨‍🎓 | Electronic and Telecommunication Engineering | [UOM](https://uom.lk/) | Sri Lanka
+
+- 🔭 I’m currently working on implementing an Autonomous Mobile Robot 
+- 🌱 I’m currently learning Hardware Description Languages for FPGA designs.
+- 💬 Ask me about anything [here](https://github.com/bimalka98/bimalka98/issues)
+<!--- 📫 How to reach me: (+94)075 029 6594 |-->
 
 **Languages:** 
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png"></code>
@@ -13,19 +19,14 @@
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg"></code>
 <code><img height="20" src="https://seeklogo.com/images/A/atom-logo-19BD90FF87-seeklogo.com.png"></code>
 
-
-- 🔭 I’m currently working on implementing an Autonomous Mobile Robot 
-- 🌱 I’m currently learning Hardware Description Languages for FPGA designs.
-- 💬 Ask me about anything [here](https://github.com/bimalka98/bimalka98/issues)
-- 📫 How to reach me: (+94)075 029 6594
-
-
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
+*NOTE: `Top languages` does not indicate my skill level or something like that, it's a GitHub metric of which languages I have the most code on GitHub.
+<!--dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula-->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bimalka98&theme=radical&hide=glsl,python" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bimalka98&theme=dark&hide=glsl,python" />
 </a>
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bimalka98&show_icons=true&theme=radical&line_height=27&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bimalka98&show_icons=true&theme=dark&line_height=27&count_private=true" />
 </a>
