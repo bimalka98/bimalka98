@@ -23,7 +23,7 @@
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg"></code>
 <code><img height="20" src="https://seeklogo.com/images/A/atom-logo-19BD90FF87-seeklogo.com.png"></code>
 
-*NOTE: `Top languages` does not indicate my skill level or something like that, it's a GitHub metric of which languages I have the most code on GitHub.
+*NOTE: `Top languages` does not indicate my skill level or something like that, it's a GitHub metric of which languages I have the most code on GitHub.*
 <!--dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula-->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
