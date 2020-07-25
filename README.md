@@ -1,10 +1,12 @@
-### Hi there  👋 I'm [Bimalka](https://www.linkedin.com/in/bimalka-piyaruwan)👨‍🦱
-#### An Undergraduate👨‍🎓 | Electronic and Telecommunication Engineering | [UOM](https://uom.lk/) | Sri Lanka
+### Hi there,  👋 I'm [Bimalka](https://www.linkedin.com/in/bimalka-piyaruwan)
+#### An Undergraduate👨‍🎓 | Electronic and Telecommunication Engineering | [ENTC](http://www.ent.mrt.ac.lk/web3/) | [UOM](https://uom.lk/) | Sri Lanka
 
 - 🔭 I’m currently working on implementing an Autonomous Mobile Robot 
 - 🌱 I’m currently learning Hardware Description Languages for FPGA designs.
 - 💬 Ask me about anything [here](https://github.com/bimalka98/bimalka98/issues)
 <!--- 📫 How to reach me: (+94)075 029 6594 |-->
+
+#### My Skills
 
 **Languages:** 
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png"></code>
