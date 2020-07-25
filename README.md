@@ -19,7 +19,7 @@
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Altium_Designer_logo.png"></code>
 <code><img height="20" src="https://blog.digilentinc.com/wp-content/uploads/2015/01/184_multisim_app_icon_ill.png"></code>
 <code><img height="20" src="https://banner2.cleanpng.com/20180328/ezw/kisspng-solidworks-computer-aided-design-3d-computer-graph-work-5abb8876c7bd12.1780632115222396068181.jpg"></code>
-<code><img height="20" src="https://png4u.com/wp-content/uploads/2019/09/Adobe-Photoshop-CC-PNG-Logo-1024x999.png"></code>
+<code><img height="22" src="https://png4u.com/wp-content/uploads/2019/09/Adobe-Photoshop-CC-PNG-Logo-1024x999.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg"></code>
 <code><img height="20" src="https://seeklogo.com/images/A/atom-logo-19BD90FF87-seeklogo.com.png"></code>
 
