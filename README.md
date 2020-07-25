@@ -22,8 +22,8 @@ Hi, I'm Bimalka Piyaruwan Thalagala, an Undergraduate of Electronic and Telecomm
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bimalka98&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bimalka98&theme=radical&hide=glsl,python" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bimalka98&show_icons=true&theme=radical&line_height=27&count_private=true" alt="Bimalka's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bimalka98&show_icons=true&theme=radical&line_height=27&count_private=true" />
 </a>
