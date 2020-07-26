@@ -1,19 +1,20 @@
-## Hi there,  👋 I'm [Bimalka](https://www.linkedin.com/in/bimalka-piyaruwan)
+## Hi there,  👋 I'm [Bimalka](https://www.linkedin.com/in/bimalka-piyaruwan/)
 ### An Undergraduate👨‍🎓 | Electronic and Telecommunication Engineering | [ENTC](http://www.ent.mrt.ac.lk/web3/) | [UOM](https://uom.lk/) | Sri Lanka
 
 - 🔭 I’m currently working on implementing an Autonomous Mobile Robot.
 - 🌱 I’m currently learning Hardware Description Languages for FPGA designs.
 - 💬 Ask me about anything [here](https://github.com/bimalka98/bimalka98/issues)
 - 📫 How to reach me:
-
+<a href="https://www.linkedin.com/in/bimalka-piyaruwan/">
+     <img height="20" src="https://github.com/bimalka98/bimalka98/blob/master/Logos/LI-In-Bug.png" />
+   </a>
+<a href="https://wa.me/94750296594/">
+        <img height="20" src="https://github.com/bimalka98/bimalka98/blob/master/Logos/WhatsApp_Logo_1.png" />
+        </a>
 <a href="https://www.facebook.com/bimalka.piyaruwan/">
-     <img height="20" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
+     <img height="20" src="https://github.com/bimalka98/bimalka98/blob/master/Logos/f_logo_RGB-Blue_58.png" />
    </a>
-<a href="https://www.linkedin.com/in/bimalka-piyaruwan">
-     <img height="20" src="https://codecov.io/gh/anuraghazra/github-readme-stats/branch/master/graph/badge.svg" />
-   </a>
-<a href="https://wa.me/94750296594">
-     <img height="20" src="https://codecov.io/gh/anuraghazra/github-readme-stats/branch/master/graph/badge.svg" />
+
 
 
 ### My Skills
