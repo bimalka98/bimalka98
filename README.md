@@ -4,8 +4,7 @@
 - 🔭 I’m currently working on implementing an Autonomous Mobile Robot.
 - 🌱 I’m currently learning Hardware Description Languages for FPGA designs.
 - 💬 Ask me about anything [here](https://github.com/bimalka98/bimalka98/issues)
-- 📫 How to reach me:
-<a href="https://www.linkedin.com/in/bimalka-piyaruwan/">
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/bimalka-piyaruwan/">
      <img height="20" src="https://github.com/bimalka98/bimalka98/blob/master/Logos/LI-In-Bug.png" />
    </a>
 <a href="https://wa.me/94750296594/">
