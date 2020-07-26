@@ -1,4 +1,4 @@
-## Hi there,  👋 I'm [Bimalka](https://www.linkedin.com/in/bimalka-piyaruwan/)
+## Hi there,  👋 I'm Bimalka
 ### An Undergraduate👨‍🎓 | Electronic and Telecommunication Engineering | [ENTC](http://www.ent.mrt.ac.lk/web3/) | [UOM](https://uom.lk/) | Sri Lanka
 
 - 🔭 I’m currently working on implementing an Autonomous Mobile Robot.
