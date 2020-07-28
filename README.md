@@ -1,11 +1,5 @@
 ## Hi there,  👋 I'm Bimalka
-
-<p align="center">
- <!--<img width="100px" src="" align="center"/>-->
- <h1 align="center"> Undergraduate </h2>
- <h2 align="center"> Electronic and Telecommunication Engineering </h2>
- <h3 align="center"> [ENTC](http://www.ent.mrt.ac.lk/web3/) | [UOM](https://uom.lk/) | Sri Lanka </h2>
-</p>
+### An Undergraduate👨‍🎓 | Electronic and Telecommunication Engineering | [ENTC](http://www.ent.mrt.ac.lk/web3/) | [UOM](https://uom.lk/) | Sri Lanka
 
 - 🔭 I’m currently working on implementing an Autonomous Mobile Robot.
 - 🌱 I’m currently learning Hardware Description Languages for FPGA designs.
