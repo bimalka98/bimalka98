@@ -2,32 +2,19 @@
  <img width="100px" src="https://github.com/bimalka98/bimalka98/blob/master/Logos/b98-logo.png" align="center"/>
 
  <h1 align="center">Hi there,  👋 I'm Bimalka</h1>
- <h3 align="center">Undergraduate👨‍🎓 | Electronic and Telecommunication Engineering</h3>
- <p align="center">
+ <h2 align="center">Undergraduate👨‍🎓 | Electronic and Telecommunication Engineering</h2>
+ <h3 align="center">
  <a href="http://www.ent.mrt.ac.lk/web3/">ENTC</a>
- ·
+ |
  <a href="https://uom.lk/">UOM</a>
- ·
+ |
  Sri Lanka
- </p>
+ </h3>
 </p>
 
 - 🔭 I’m currently working on implementing an Autonomous Mobile Robot.
 - 🌱 I’m currently learning Hardware Description Languages for FPGA designs.
 - 💬 Ask me about anything [here](https://github.com/bimalka98/bimalka98/issues)
-- 📫 How to reach me:
-
-<a href="https://www.linkedin.com/in/bimalka-piyaruwan/">
-        <img height="30" src="https://github.com/bimalka98/bimalka98/blob/master/Logos/LI-In-Bug.png" />
-</a>
-<a href="https://wa.me/94750296594/">
-        <img height="30" src="https://github.com/bimalka98/bimalka98/blob/master/Logos/WhatsApp_Logo_1.png" />
-</a>
-<a href="https://www.facebook.com/bimalka.piyaruwan/">
-       <img height="30" src="https://github.com/bimalka98/bimalka98/blob/master/Logos/f_logo_RGB-Blue_58.png" />
-</a>
-
-
 
 ### My Skills
 
@@ -57,3 +44,17 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=bimalka98&show_icons=true&theme=dracula&line_height=27&count_private=true" />
 </a>
+<p align="center">
+ 
+**Reach me through:**
+
+<a href="https://www.linkedin.com/in/bimalka-piyaruwan/">
+        <img height="30" src="https://github.com/bimalka98/bimalka98/blob/master/Logos/LI-In-Bug.png" />
+</a>
+<a href="https://wa.me/94750296594/">
+        <img height="30" src="https://github.com/bimalka98/bimalka98/blob/master/Logos/WhatsApp_Logo_1.png" />
+</a>
+<a href="https://www.facebook.com/bimalka.piyaruwan/">
+       <img height="30" src="https://github.com/bimalka98/bimalka98/blob/master/Logos/f_logo_RGB-Blue_58.png" />
+</a>
+</p>
