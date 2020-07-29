@@ -10,7 +10,8 @@
  |
  Sri Lanka
  </h3>
- **Reach me through:**
+<p align="center">
+Reach me through:
 <a href="https://www.linkedin.com/in/bimalka-piyaruwan/">
         <img height="30" src="https://github.com/bimalka98/bimalka98/blob/master/Logos/LI-In-Bug.png" />
 </a>
@@ -20,7 +21,7 @@
 <a href="https://www.facebook.com/bimalka.piyaruwan/">
        <img height="30" src="https://github.com/bimalka98/bimalka98/blob/master/Logos/f_logo_RGB-Blue_58.png" />
 </a>
-
+</p>
 </p>
 
 - 🔭 I’m currently working on implementing an Autonomous Mobile Robot.
