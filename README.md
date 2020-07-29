@@ -1,8 +1,8 @@
 <p align="center">
  <img width="200px" src="https://github.com/bimalka98/bimalka98/blob/master/Logos/b98-logo.png" align="center"/>
 
- <h1 align="center">Hi there,  👋 I'm Bimalka</h1>
- <h2 align="center">Undergraduate👨‍🎓 | Electronic and Telecommunication Engineering</h2>
+ <h2 align="center">Hi there,  👋 I'm Bimalka</h2>
+ <h3 align="center">Undergraduate👨‍🎓 | Electronic and Telecommunication Engineering</h3>
  <h3 align="center">
  <a href="http://www.ent.mrt.ac.lk/web3/">ENTC</a>
  |
