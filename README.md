@@ -44,10 +44,10 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=bimalka98&show_icons=true&theme=dracula&line_height=27&count_private=true" />
 </a>
-<p align="center">
- 
-**Reach me through:**
 
+<p align="center">
+
+**Reach me through:**
 <a href="https://www.linkedin.com/in/bimalka-piyaruwan/">
         <img height="30" src="https://github.com/bimalka98/bimalka98/blob/master/Logos/LI-In-Bug.png" />
 </a>
