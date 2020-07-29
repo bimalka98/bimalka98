@@ -4,7 +4,11 @@
  <h1 align="center">Hi there,  👋 I'm Bimalka</h1>
  <h3 align="center">Undergraduate👨‍🎓 | Electronic and Telecommunication Engineering</h3>
  <p align="center">
- <a href="http://www.ent.mrt.ac.lk/web3/">ENTC</a>·<a href="https://uom.lk/">UOM</a>·Sri Lanka
+ <a href="http://www.ent.mrt.ac.lk/web3/">ENTC</a>
+ ·
+ <a href="https://uom.lk/">UOM</a>
+ ·
+ Sri Lanka
  </p>
 </p>
 
