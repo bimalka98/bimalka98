@@ -10,6 +10,17 @@
  |
  Sri Lanka
  </h3>
+ **Reach me through:**
+<a href="https://www.linkedin.com/in/bimalka-piyaruwan/">
+        <img height="30" src="https://github.com/bimalka98/bimalka98/blob/master/Logos/LI-In-Bug.png" />
+</a>
+<a href="https://wa.me/94750296594/">
+        <img height="30" src="https://github.com/bimalka98/bimalka98/blob/master/Logos/WhatsApp_Logo_1.png" />
+</a>
+<a href="https://www.facebook.com/bimalka.piyaruwan/">
+       <img height="30" src="https://github.com/bimalka98/bimalka98/blob/master/Logos/f_logo_RGB-Blue_58.png" />
+</a>
+
 </p>
 
 - 🔭 I’m currently working on implementing an Autonomous Mobile Robot.
@@ -44,17 +55,3 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=bimalka98&show_icons=true&theme=dracula&line_height=27&count_private=true" />
 </a>
-
-<p align="center">
-
-**Reach me through:**
-<a href="https://www.linkedin.com/in/bimalka-piyaruwan/">
-        <img height="30" src="https://github.com/bimalka98/bimalka98/blob/master/Logos/LI-In-Bug.png" />
-</a>
-<a href="https://wa.me/94750296594/">
-        <img height="30" src="https://github.com/bimalka98/bimalka98/blob/master/Logos/WhatsApp_Logo_1.png" />
-</a>
-<a href="https://www.facebook.com/bimalka.piyaruwan/">
-       <img height="30" src="https://github.com/bimalka98/bimalka98/blob/master/Logos/f_logo_RGB-Blue_58.png" />
-</a>
-</p>
