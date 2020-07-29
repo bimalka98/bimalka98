@@ -1,5 +1,5 @@
 <p align="center">
- <img width="200px" src="https://github.com/bimalka98/bimalka98/blob/master/Logos/b98-logo.png" align="center"/>
+ <img width="150px" src="https://github.com/bimalka98/bimalka98/blob/master/Logos/b98-logo.png" align="center"/>
 
  <h2 align="center">Hi there,  👋 I'm Bimalka</h2>
  <h3 align="center">Undergraduate👨‍🎓 | Electronic and Telecommunication Engineering</h3>
