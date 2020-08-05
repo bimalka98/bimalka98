@@ -24,8 +24,8 @@
 </p>
 </p>
 
-- 🔭 I’m currently working on creating my own blog😎.
-- 🌱 I’m currently learning evrything possible😂.
+- 🔭 I’m currently working on creating my blog😎.
+- 🌱 I’m currently learning everything possible😂.
 - 💬 Ask me about anything [here](https://github.com/bimalka98/bimalka98/issues)
 
 ### My Skills
