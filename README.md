@@ -49,18 +49,14 @@
 <!--dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula-->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bimalka98&theme=radical&layout=compact&langs_count=8" />
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  layout=compact-->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bimalka98&theme=radical&langs_count=10" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=bimalka98&show_icons=true&theme=radical&line_height=27&count_private=true&show_owner=false" />
 </a>
 
-<a href="https://github.com/bimalka98/RF-Propagation-Model">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bimalka98&repo=RF-Propagation-Model&theme=radical" />
-</a> 
 
 <a href="https://github.com/bimalka98/bimalka98.github.io">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
