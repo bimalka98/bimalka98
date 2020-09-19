@@ -24,7 +24,7 @@
 </p>
 </p>
 
-- 🔭 I’m currently working on creating my blog😎.
+- 🔭 I’m currently working on developing an Arduino based Autonomous Mobile Robot and a PIR based Motion Detector😎.
 - 🌱 I’m currently learning everything possible😂.
 - 💬 Ask me about anything [here](https://github.com/bimalka98/bimalka98/issues)
 
@@ -45,7 +45,7 @@
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg"></code>
 <code><img height="30" src="https://seeklogo.com/images/A/atom-logo-19BD90FF87-seeklogo.com.png"></code>
 
-*NOTE: `Top languages` does not indicate my skill level or something like that and it's a GitHub metric of which languages I have the most code on GitHub. Moreover, languages in the repositories which are not publicized yet are not taken into account when calculating the percentages.*
+*NOTE: `Most Used languages` does not indicate my skill level or something like that and it's a GitHub metric of which languages I have the most code on GitHub. Moreover, languages in the repositories which are not publicized yet are not taken into account when calculating the percentages.*
 <!--dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula-->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -57,13 +57,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=bimalka98&show_icons=true&theme=radical&line_height=27&count_private=true&show_owner=false" />
 </a>
 
-
 <a href="https://github.com/bimalka98/bimalka98.github.io">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bimalka98&repo=bimalka98.github.io&theme=radical" />
-</a>
-
-<a href="https://github.com/bimalka98/RF-Propagation-Model">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bimalka98&repo=RF-Propagation-Model&theme=radical" />
 </a>
