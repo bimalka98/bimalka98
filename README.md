@@ -56,3 +56,13 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=bimalka98&show_icons=true&theme=radical&line_height=27&count_private=true&show_owner=false" />
 </a>
+
+<a href="https://github.com/bimalka98/RF-Propagation-Model">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bimalka98&repo=RF-Propagation-Model&theme=radical" />
+</a> 
+
+<a href="https://github.com/bimalka98/bimalka98.github.io">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bimalka98&repo=bimalka98.github.io&theme=radical" />
+</a>
