@@ -50,9 +50,9 @@
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bimalka98&theme=dark&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bimalka98&theme=radical&layout=compact&langs_count=8" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bimalka98&show_icons=true&theme=dark&line_height=27&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bimalka98&show_icons=true&theme=radical&line_height=27&count_private=true&show_owner=false" />
 </a>
