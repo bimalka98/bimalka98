@@ -55,12 +55,6 @@
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  layout=compact-->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bimalka98&layout=compact&theme=radical&langs_count=10" />
 </a>
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=bimalka98&show_icons=true&theme=radical&line_height=27&count_private=true&show_owner=false" />
-</a>
-
-<a href="https://github.com/bimalka98/bimalka98.github.io">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bimalka98&repo=bimalka98.github.io&theme=radical" />
 </a>
