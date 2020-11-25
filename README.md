@@ -5,7 +5,7 @@
  
 
  <h2 align="center">Hi there,  👋 I'm Bimalka</h2>
- <h3 align="center"> 2nd Year Undergraduate👨‍🎓 | Electronic and Telecommunication Engineering</h3>
+ <h3 align="center"> Second-Year Undergraduate👨‍🎓 | Electronic and Telecommunication Engineering</h3>
  <h3 align="center">
  <a href="http://www.ent.mrt.ac.lk/web3/">ENTC</a>
  |
