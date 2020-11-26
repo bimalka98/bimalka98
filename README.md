@@ -11,7 +11,7 @@
  |
  <a href="https://uom.lk/">UOM</a>
  |
- Sri Lanka
+ <a href = "https://en.wikipedia.org/wiki/Sri_Lanka">Sri Lanka</a>
  </h3>
 <p align="center">Reach Me Through</p>
 <p align="center">
