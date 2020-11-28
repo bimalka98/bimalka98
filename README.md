@@ -1,4 +1,4 @@
-<p align="right">
+<p align="center">
  
  <a href="https://bimalka98.github.io/">
  <img width="100px" src="https://github.com/bimalka98/bimalka98/blob/master/Logos/b98-logo.png" align="center"/>
