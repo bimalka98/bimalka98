@@ -11,10 +11,6 @@
  <a href="https://uom.lk/">UOM</a>
  |
  <a href = "https://en.wikipedia.org/wiki/Sri_Lanka">Sri Lanka</a> 
- 
- <img  src="https://github.com/bimalka98/bimalka98/blob/master/Logos/sri-lanka-srilanka-flag-country-nation-union-empire-33091.svg" align="center"/>
- </a>
- 
  </h3>
 
  <img height="60" src="https://github.com/bimalka98/bimalka98/blob/master/Logos/sri-lanka-srilanka-flag-country-nation-union-empire-33091.svg" align="center"/>
