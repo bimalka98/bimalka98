@@ -3,9 +3,6 @@
  <a href="https://bimalka98.github.io/">
  <img width="150px" src="https://github.com/bimalka98/bimalka98/blob/master/Logos/b98-logo.png" align="center"/>
  </a>
- 
-
-
  <h2 align="center">Hi there,  👋 I'm Bimalka</h2>
  <h3 align="center"> Second-Year Undergraduate👨‍🎓 | Electronic and Telecommunication Engineering</h3>
  <h3 align="center">
@@ -13,8 +10,15 @@
  |
  <a href="https://uom.lk/">UOM</a>
  |
- <a href = "https://en.wikipedia.org/wiki/Sri_Lanka">Sri Lanka</a> <code><img height="30" src="https://github.com/bimalka98/bimalka98/blob/master/Logos/sri-lanka-srilanka-flag-country-nation-union-empire-33091.svg"></code>
+ <a href = "https://en.wikipedia.org/wiki/Sri_Lanka">Sri Lanka</a> 
+ 
+ <img  src="https://github.com/bimalka98/bimalka98/blob/master/Logos/sri-lanka-srilanka-flag-country-nation-union-empire-33091.svg" align="center"/>
+ </a>
+ 
  </h3>
+
+ <img height="60" src="https://github.com/bimalka98/bimalka98/blob/master/Logos/sri-lanka-srilanka-flag-country-nation-union-empire-33091.svg" align="center"/>
+ 
 <p align="center">Reach Me Through</p>
 <p align="center">
 <a href="https://www.linkedin.com/in/bimalka-piyaruwan/">
