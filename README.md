@@ -1,8 +1,12 @@
 <p align="center">
+ 
+ <code><img height="30" src="https://github.com/bimalka98/bimalka98/blob/master/Logos/sri-lanka-srilanka-flag-country-nation-union-empire-33091.svg"></code>
+ 
  <a href="https://bimalka98.github.io/">
  <img width="150px" src="https://github.com/bimalka98/bimalka98/blob/master/Logos/b98-logo.png" align="center"/>
  </a>
  
+
 
  <h2 align="center">Hi there,  👋 I'm Bimalka</h2>
  <h3 align="center"> Second-Year Undergraduate👨‍🎓 | Electronic and Telecommunication Engineering</h3>
@@ -56,6 +60,7 @@
 <code><img height="32" src="https://png4u.com/wp-content/uploads/2019/09/Adobe-Photoshop-CC-PNG-Logo-1024x999.png"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg"></code>
 <code><img height="30" src="https://seeklogo.com/images/A/atom-logo-19BD90FF87-seeklogo.com.png"></code>
+<code><img height="30" src="https://github.com/bimalka98/bimalka98/blob/master/Logos/visual-studio-code.svg"></code>
 
 ---
 
