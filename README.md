@@ -1,7 +1,5 @@
 <p align="center">
  
- <code><img height="30" src="https://github.com/bimalka98/bimalka98/blob/master/Logos/sri-lanka-srilanka-flag-country-nation-union-empire-33091.svg"></code>
- 
  <a href="https://bimalka98.github.io/">
  <img width="150px" src="https://github.com/bimalka98/bimalka98/blob/master/Logos/b98-logo.png" align="center"/>
  </a>
@@ -15,7 +13,7 @@
  |
  <a href="https://uom.lk/">UOM</a>
  |
- <a href = "https://en.wikipedia.org/wiki/Sri_Lanka">Sri Lanka</a>
+ <a href = "https://en.wikipedia.org/wiki/Sri_Lanka">Sri Lanka</a> <code><img height="30" src="https://github.com/bimalka98/bimalka98/blob/master/Logos/sri-lanka-srilanka-flag-country-nation-union-empire-33091.svg"></code>
  </h3>
 <p align="center">Reach Me Through</p>
 <p align="center">
