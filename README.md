@@ -12,17 +12,19 @@
  |
  <a href = "https://en.wikipedia.org/wiki/Sri_Lanka">Sri Lanka</a> 
  </h3>
-
+ 
+<p align="center">
  <img height="60" src="https://github.com/bimalka98/bimalka98/blob/master/Logos/sri-lanka-srilanka-flag-country-nation-union-empire-33091.svg" align="center"/>
+ </p>
  
 <p align="center">Reach Me Through</p>
 <p align="center">
 <a href="https://www.linkedin.com/in/bimalka-piyaruwan/">
         <img height="30" src="https://github.com/bimalka98/bimalka98/blob/master/Logos/LI-In-Bug.png" />
-</a>. 
+</a> 
 <a href="https://wa.me/94750296594/">
         <img height="30" src="https://github.com/bimalka98/bimalka98/blob/master/Logos/WhatsApp_Logo_1.png" />
-</a>.
+</a>
 <a href="https://www.facebook.com/bimalka.piyaruwan/">
        <img height="30" src="https://github.com/bimalka98/bimalka98/blob/master/Logos/f_logo_RGB-Blue_58.png" />
 </a>
