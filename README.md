@@ -1,8 +1,9 @@
-<p align="center">
- 
- <a href="https://bimalka98.github.io/">
- <img width="100px" src="https://github.com/bimalka98/bimalka98/blob/master/Logos/b98-logo.png" align="center"/>
- </a>
+
+<!--<p align="center">-->
+<!--<a href="https://bimalka98.github.io/">-->
+<!--<img width="100px" src="https://github.com/bimalka98/bimalka98/blob/master/Logos/b98-logo.png" align="center"/>-->
+<!--</a>-->
+
  <h2 align="center">Hi there,  👋 I'm Bimalka</h2>
  <h3 align="center"> Second-Year Undergraduate👨‍🎓 | Electronic and Telecommunication Engineering</h3>
  <h3 align="center">
