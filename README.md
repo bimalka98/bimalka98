@@ -15,7 +15,9 @@
  </h3>
  
 <p align="center">
- <img height="80" src="https://github.com/bimalka98/bimalka98/blob/master/Logos/sri-lanka-srilanka-flag-country-nation-union-empire-33091.svg" align="center"/>
+ <!--align="center"/--->
+ <img height="80" src="https://github.com/bimalka98/bimalka98/blob/master/Logos/uom.png" />
+ <img height="80" src="https://github.com/bimalka98/bimalka98/blob/master/Logos/sri-lanka-srilanka-flag-country-nation-union-empire-33091.svg" />
  </p>
  
 <p align="center">Reach Me Through</p>
