@@ -35,7 +35,7 @@
 </p>
 
 - 🔭 I’m currently working on developing an Arduino based Autonomous Mobile Robot and a PIR based Motion Detector. 😎
-- 🌱 I’m currently learning Image Processing, Computer vision, Digital signal Processing, Data structures, Algorithms and everything possible. 😂
+- 🌱 I’m currently learning Image Processing, Computer vision, Digital signal Processing, Data structures, Algorithms and whatever possible. 😂
 - 💬 Ask me about anything [here](https://github.com/bimalka98/bimalka98/issues). If it is something I know, I can help you! 😉
 - 🎯 My CV : You can see my upto date Curriculum Vitae from [here](https://bimalka98.github.io/assets/CV/document.pdf). 😃
 
