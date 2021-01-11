@@ -34,10 +34,10 @@
 </p>
 </p>
 
-- 🔭 I’m currently working on developing an Arduino based Autonomous Mobile Robot and a PIR based Motion Detector😎.
-- 🌱 I’m currently learning Image Processing, Computer vision, Digital signal Processing, Data structures, Algorithms and everything possible😂.
-- 💬 Ask me about anything [here](https://github.com/bimalka98/bimalka98/issues)
-- 🎯 My CV : [View](https://bimalka98.github.io/assets/CV/document.pdf)
+- 🔭 I’m currently working on developing an Arduino based Autonomous Mobile Robot and a PIR based Motion Detector. 😎
+- 🌱 I’m currently learning Image Processing, Computer vision, Digital signal Processing, Data structures, Algorithms and everything possible. 😂
+- 💬 Ask me about anything [here].(https://github.com/bimalka98/bimalka98/issues)  If it is something I know, I can help you! 😉
+- 🎯 My CV : [View](https://bimalka98.github.io/assets/CV/document.pdf) : You can see my upto date Curriculum Vitae. 😃
 
 ---
 
@@ -73,8 +73,8 @@
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  layout=compact-->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bimalka98&layout=compact&theme=radical&langs_count=10" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bimalka98&layout=compact&theme=merko&langs_count=10" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bimalka98&show_icons=true&theme=radical&line_height=27&count_private=true&show_owner=false" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bimalka98&show_icons=true&theme=merko&line_height=27&count_private=true&show_owner=false" />
 </a>
