@@ -1,4 +1,14 @@
-![GitHub Profile Views Counter](https://komarev.com/ghpvc/?username=bimalka98&color=brightgreen&style=plastic)
+[![Awesome Badges](https://img.shields.io/badge/Welcome-All-brightgreen)]()
+[![GitHub Profile Views Counter](https://komarev.com/ghpvc/?username=bimalka98&color=brightgreen)]()
+[![Awesome Badges](https://img.shields.io/badge/%20-including%20You-brightgreen)]()
+
+[![Awesome Badges](https://img.shields.io/badge/Learning-Whatever%20Possible-blue)]()
+[![Awesome Badges](https://img.shields.io/badge/Problem-Solver-red)]()
+[![Awesome Badges](https://img.shields.io/badge/Love-Electronics-orange)]()
+[![Awesome Badges](https://img.shields.io/badge/%20-Telecommunication-orange)]()
+[![Awesome Badges](https://img.shields.io/badge/%20-Machine%20Vision-orange)]()
+
+
 <!--<p align="center">-->
 <!--<a href="https://bimalka98.github.io/">-->
 <!--<img width="100px" src="https://github.com/bimalka98/bimalka98/blob/master/Logos/b98-logo.png" align="center"/>-->
