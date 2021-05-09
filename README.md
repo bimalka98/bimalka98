@@ -1,12 +1,11 @@
-[![Awesome Badges](https://img.shields.io/badge/Welcome-All-brightgreen)]()
-[![GitHub Profile Views Counter](https://komarev.com/ghpvc/?username=bimalka98&color=brightgreen)]()
-[![Awesome Badges](https://img.shields.io/badge/%20-including%20You-brightgreen)]()
+![](https://github.com/bimalka98/bimalka98/blob/master/1617739490114.jpg)
 
-[![Awesome Badges](https://img.shields.io/badge/Learning-Whatever%20Possible-blue)]()
-[![Awesome Badges](https://img.shields.io/badge/Problem-Solver-red)]()
-[![Awesome Badges](https://img.shields.io/badge/Love-Electronics-orange)]()
-[![Awesome Badges](https://img.shields.io/badge/%20-Telecommunication-orange)]()
-[![Awesome Badges](https://img.shields.io/badge/%20-Machine%20Vision-orange)]()
+[![Awesome Badges](https://img.shields.io/badge/Welcome-All-brightgreen)]()
+[![Awesome Badges](https://img.shields.io/badge/Learn-From%20Everyone-blue)]()
+[![Awesome Badges](https://img.shields.io/badge/Problem-Solver-blue)]()
+[![Awesome Badges](https://img.shields.io/badge/Love-Electronics-blue)]()
+[![Awesome Badges](https://img.shields.io/badge/%20-Telecommunication-blue)]()
+[![Awesome Badges](https://img.shields.io/badge/%20-Machine%20Vision-blue)]()
 
 
 <!--<p align="center">-->
@@ -14,40 +13,16 @@
 <!--<img width="100px" src="https://github.com/bimalka98/bimalka98/blob/master/Logos/b98-logo.png" align="center"/>-->
 <!--</a>-->
 
- <h2 align="center">Hi there,  👋 I'm Bimalka</h2>
- <h3 align="center"> Second-Year Undergraduate👨‍🎓 | Electronic and Telecommunication Engineering</h3>
- <h3 align="center">
- <a href="http://www.ent.mrt.ac.lk/web3/">ENTC</a>
- |
- <a href="https://uom.lk/">UOM</a>
- |
- <a href = "https://en.wikipedia.org/wiki/Sri_Lanka">Sri Lanka</a> 
- </h3>
- 
-<p align="center">
- <!--align="center"/--->
- <img height="80" src="https://github.com/bimalka98/bimalka98/blob/master/Logos/uom.png" />
- <img height="80" src="https://github.com/bimalka98/bimalka98/blob/master/Logos/sri-lanka-srilanka-flag-country-nation-union-empire-33091.svg" />
- </p>
- 
-<p align="center">Reach Me Through</p>
-<p align="center">
-<a href="https://www.linkedin.com/in/bimalka-piyaruwan/">
-        <img height="30" src="https://github.com/bimalka98/bimalka98/blob/master/Logos/li.svg" />
-</a> 
-<a href="https://wa.me/94750296594/">
-        <img height="30" src="https://github.com/bimalka98/bimalka98/blob/master/Logos/whtsapp.svg" />
-</a>
-<a href="https://www.facebook.com/bimalka.piyaruwan/">
-       <img height="30" src="https://github.com/bimalka98/bimalka98/blob/master/Logos/f_logo_RGB-Blue_58.png" />
-</a>
-</p>
-</p>
+
+### *Hi there,  👋 I'm Bimalka. A second-year undergraduate in the [Department of Electronic and Telecommunication Engineering](https://ent.uom.lk/) at the [University of Moratuwa](https://uom.lk/) in [Sri Lanka](https://en.wikipedia.org/wiki/Sri_Lanka).*
 
 - 🔭 I’m currently working on developing an Arduino based Autonomous Mobile Robot and a PIR based Motion Detector. 😎
 - 🌱 I’m currently learning Image Processing, Computer vision, Digital signal Processing, Data structures, Algorithms and whatever possible. 😂
 - 💬 Ask me about anything [here](https://github.com/bimalka98/bimalka98/issues). If it is something I know, I can help you! 😉
 - 🎯 My CV : You can see my upto date Curriculum Vitae from [here](https://bimalka98.github.io/assets/CV/BPT_academic_CV.pdf). 😃
+- ✌  Reach Me Through: <a href="https://www.linkedin.com/in/bimalka-piyaruwan/"><img height="25" src="https://github.com/bimalka98/bimalka98/blob/master/Logos/li.svg" /></a> 
+<a href="https://wa.me/94750296594/"><img height="25" src="https://github.com/bimalka98/bimalka98/blob/master/Logos/whtsapp.svg" /></a>
+<a href="https://www.facebook.com/bimalka.piyaruwan/"><img height="25" src="https://github.com/bimalka98/bimalka98/blob/master/Logos/f_logo_RGB-Blue_58.png" /></a>
 
 ---
 
@@ -83,8 +58,9 @@
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  layout=compact-->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bimalka98&layout=compact&theme=merko&langs_count=8" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bimalka98&layout=compact&theme=gruvbox&langs_count=10" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bimalka98&show_icons=true&theme=merko&line_height=27&count_private=true&show_owner=false" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bimalka98&show_icons=true&theme=gruvbox&line_height=27&count_private=true&show_owner=false" />
 </a>
+
