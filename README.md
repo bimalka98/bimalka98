@@ -21,7 +21,7 @@
 - 💬 Ask me about anything [here](https://github.com/bimalka98/bimalka98/issues). If it is something I know, I can help you! 😉 If you wanna Reach Me : <a href="https://www.linkedin.com/in/bimalka-piyaruwan/"><img height="20" src="https://github.com/bimalka98/bimalka98/blob/master/Logos/li.svg" /></a> 
 <a href="https://wa.me/94750296594/"><img height="20" src="https://github.com/bimalka98/bimalka98/blob/master/Logos/whtsapp.svg" /></a>
 <a href="https://www.facebook.com/bimalka.piyaruwan/"><img height="20" src="https://github.com/bimalka98/bimalka98/blob/master/Logos/f_logo_RGB-Blue_58.png" /></a>
-- 🎯 My CV : You can see my upto date ***academic CV*** from [here](https://bimalka98.github.io/assets/CV/BPT_academic_CV.pdf). 😃
+- 🎯 You can see my upto date ***academic CV*** from [here](https://bimalka98.github.io/assets/CV/BPT_academic_CV.pdf). 😃
 
 ---
 
