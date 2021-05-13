@@ -1,4 +1,4 @@
-![](https://github.com/bimalka98/bimalka98/blob/master/1617739490114.jpg)
+![](https://github.com/bimalka98/bimalka98/blob/master/cover.png)
 
 [![Awesome Badges](https://img.shields.io/badge/Welcome-All-brightgreen)]()
 [![Awesome Badges](https://img.shields.io/badge/Learn-From%20Everyone-blue)]()
