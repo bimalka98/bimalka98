@@ -17,7 +17,7 @@
 
 ### *Hi there,  👋 I'm Bimalka. A second-year undergraduate in the [Department of Electronic and Telecommunication Engineering](https://ent.uom.lk/) at the [University of Moratuwa](https://uom.lk/) in [Sri Lanka](https://en.wikipedia.org/wiki/Sri_Lanka).*
 
-- 🔭 I’m currently working on developing an *Arduino based Autonomous Mobile Robot* and a *PIR based Motion Detector*. 😎
+- 🔭 I’m currently not involved in any project specifically.😅 You can see the projects done by me upto now, in my [repositories](https://github.com/bimalka98?tab=repositories)
 - 🌱 I’m currently learning *Image Processing, Computer vision, Digital signal Processing, Data structures, Algorithms* and *whatever possible*. 😂
 - 💬 Ask me about anything [here](https://github.com/bimalka98/bimalka98/issues). If it is something I know, I can help you! 😉 If you wanna Reach Me : <a href="https://www.linkedin.com/in/bimalka-piyaruwan/"><img height="20" src="https://github.com/bimalka98/bimalka98/blob/master/Logos/li.svg" /></a> 
 <a href="https://wa.me/94750296594/"><img height="20" src="https://github.com/bimalka98/bimalka98/blob/master/Logos/whtsapp.svg" /></a>
