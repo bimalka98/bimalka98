@@ -19,10 +19,12 @@
 
 - 🔭 I’m currently not involved in any project specifically.😅 You can see the projects done by me upto now, in my [repositories](https://github.com/bimalka98?tab=repositories)
 - 🌱 I’m currently learning *Image Processing, Computer vision, Digital signal Processing, Data structures, Algorithms* and *whatever possible*. 😂
+- 📈 After the graduation, I would like to join the industry and apply what I have already learnt to solve real world problems while developing myself through exploring new areas of interest.😎
 - 💬 Ask me about anything [here](https://github.com/bimalka98/bimalka98/issues). If it is something I know, I can help you! 😉 If you wanna Reach Me : <a href="https://www.linkedin.com/in/bimalka-piyaruwan/"><img height="20" src="https://github.com/bimalka98/bimalka98/blob/master/Logos/li.svg" /></a> 
 <a href="https://wa.me/94750296594/"><img height="20" src="https://github.com/bimalka98/bimalka98/blob/master/Logos/whtsapp.svg" /></a>
 <a href="https://www.facebook.com/bimalka.piyaruwan/"><img height="20" src="https://github.com/bimalka98/bimalka98/blob/master/Logos/f_logo_RGB-Blue_58.png" /></a>
 - 🎯 You can see my upto date ***academic CV*** from [here](https://bimalka98.github.io/assets/CV/BPT_academic_CV.pdf). 😃
+
 
 ---
 
