@@ -3,10 +3,12 @@
 <!--[![Awesome Badges](https://img.shields.io/badge/Welcome-All-brightgreen)]()-->
 [![Awesome Badges](https://img.shields.io/badge/Learn-From%20Everyone-blue)]()
 [![Awesome Badges](https://img.shields.io/badge/Problem-Solver-blue)]()
+[![Awesome Badges](https://img.shields.io/badge/Strive-For%20Excellence-blue)]()
 [![Awesome Badges](https://img.shields.io/badge/Love-Electronics-blue)]()
 [![Awesome Badges](https://img.shields.io/badge/%20-Telecommunication-blue)]()
 [![Awesome Badges](https://img.shields.io/badge/%20-Machine%20Vision-blue)]()
 [![Awesome Badges](https://img.shields.io/badge/%20-Deep%20Learning-blue)]()
+
 
 
 <!--<p align="center">-->
