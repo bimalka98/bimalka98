@@ -17,7 +17,7 @@
 <!--</a>-->
 
 
-### *Hi there,  👋 I'm Bimalka. A second-year undergraduate in the [Department of Electronic and Telecommunication Engineering](https://ent.uom.lk/) at the [University of Moratuwa](https://uom.lk/) in [Sri Lanka](https://en.wikipedia.org/wiki/Sri_Lanka).*
+### *Hi there,  👋 I'm Bimalka. A third-year undergraduate in the [Department of Electronic and Telecommunication Engineering](https://ent.uom.lk/) at the [University of Moratuwa](https://uom.lk/) in [Sri Lanka](https://en.wikipedia.org/wiki/Sri_Lanka).*
 
 - 🔭 I’m currently not involved in any project specifically.😅 You can see the projects done by me upto now, in my [repositories](https://github.com/bimalka98?tab=repositories)
 - 🌱 I’m currently learning *Image Processing, Computer vision, Digital signal Processing, Data structures, Algorithms* and *whatever possible*. 😂
