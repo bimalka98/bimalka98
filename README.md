@@ -20,7 +20,7 @@
 ### *Hi there,  👋 I'm Bimalka. A third-year undergraduate in the [Department of Electronic and Telecommunication Engineering](https://ent.uom.lk/) at the [University of Moratuwa](https://uom.lk/) in [Sri Lanka](https://en.wikipedia.org/wiki/Sri_Lanka).*
 
 - 🔭 I’m currently not involved in any project specifically.😅 You can see the projects done by me upto now, in my [repositories](https://github.com/bimalka98?tab=repositories)
-- 🌱 I’m currently learning *Graph Neural Networks, Data structures, Algorithms, Object Oriented Programming in Python* and *whatever possible*. 😂
+- 🌱 I’m currently learning *Graph Neural Networks; Data structures, Algorithms, Object Oriented Programming in Python; C++ Concepts for Industrial Applications* and *whatever possible*. 😂
 - 📈 After the graduation, I would like to join the industry and apply what I have already learnt to solve real world problems while developing myself through exploring new areas of interest.😎
 - 💬 Ask me about anything [here](https://github.com/bimalka98/bimalka98/issues). If it is something I know, I can help you! 😉 If you wanna Reach Me : <a href="https://www.linkedin.com/in/bimalka-piyaruwan/"><img height="20" src="https://github.com/bimalka98/bimalka98/blob/master/Logos/li.svg" /></a> 
 <a href="https://wa.me/94750296594/"><img height="20" src="https://github.com/bimalka98/bimalka98/blob/master/Logos/whtsapp.svg" /></a>
