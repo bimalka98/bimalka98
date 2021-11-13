@@ -19,12 +19,15 @@
 
 ### *Hi there,  👋 I'm Bimalka. A third-year undergraduate in the [Department of Electronic and Telecommunication Engineering](https://ent.uom.lk/) at the [University of Moratuwa](https://uom.lk/) in [Sri Lanka](https://en.wikipedia.org/wiki/Sri_Lanka).*
 
-- 🔭 I’m currently not involved in any project specifically.😅 You can see the projects done by me upto now, in my [repositories](https://github.com/bimalka98?tab=repositories)
+- 🔭 I’m currently working on two projects. Namely, an *FPGA based task specific processor development* and an *electronic product development* to improve the efficiency of public transportation(busses) in Sri Lanka. You can see the projects done by me upto now, in my [repositories](https://github.com/bimalka98?tab=repositories)
 - 🌱 I’m currently learning *Graph Neural Networks; Data structures, Algorithms, Object Oriented Programming in Python; C++ Concepts for Industrial Applications* and *whatever possible*. 😂
 - 📈 After the graduation, I would like to join the industry and apply what I have already learnt to solve real world problems while developing myself through exploring new areas of interest.😎
-- 💬 Ask me about anything [here](https://github.com/bimalka98/bimalka98/issues). If it is something I know, I can help you! 😉 If you wanna Reach Me : <a href="https://www.linkedin.com/in/bimalka-piyaruwan/"><img height="20" src="https://github.com/bimalka98/bimalka98/blob/master/Logos/li.svg" /></a> 
-<a href="https://wa.me/94750296594/"><img height="20" src="https://github.com/bimalka98/bimalka98/blob/master/Logos/whtsapp.svg" /></a>
-<a href="https://www.facebook.com/bimalka.piyaruwan/"><img height="20" src="https://github.com/bimalka98/bimalka98/blob/master/Logos/f_logo_RGB-Blue_58.png" /></a>
+- 💬 Ask me about anything [here](https://github.com/bimalka98/bimalka98/issues). If it is something I know, I can help you! 😉 
+- 📌 If you wanna reach me, feel free to drop a line via email. or you may use : 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/bimalka-piyaruwan/) or 
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/94750296594/)
+
+
 - 🎯 You can see my upto date ***academic CV*** from [here](https://bimalka98.github.io/assets/myCVs/BPT_academic_CV.pdf). 😃
 
 
@@ -42,11 +45,11 @@
 **Languages    :**
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png"></code>
 <code><img height="30" src="https://github.com/bimalka98/bimalka98/blob/master/Logos/c-programming.svg"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/1200px-LaTeX_logo.svg.png"></code>
 
 **Tools        :**
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Altium_Designer_logo.png"></code>
 <code><img height="30" src="https://blog.digilentinc.com/wp-content/uploads/2015/01/184_multisim_app_icon_ill.png"></code>
 <code><img height="30" src="https://banner2.cleanpng.com/20180328/ezw/kisspng-solidworks-computer-aided-design-3d-computer-graph-work-5abb8876c7bd12.1780632115222396068181.jpg"></code>
