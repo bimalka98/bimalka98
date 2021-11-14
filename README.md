@@ -23,11 +23,6 @@
 - 🌱 I’m currently learning *Graph Neural Networks; Data structures, Algorithms, Object Oriented Programming in Python; C++ Concepts for Industrial Applications* and *whatever possible*. 😂
 - 📈 After the graduation, I would like to join the industry and apply what I have already learnt to solve real world problems while developing myself through exploring new areas of interest.😎
 - 💬 Ask me about anything [here](https://github.com/bimalka98/bimalka98/issues). If it is something I know, I can help you! 😉 
-- 📌 If you wanna reach me, feel free to drop a line via email. or you may use : 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/bimalka-piyaruwan/) or 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/94750296594/)
-
-
 - 🎯 You can see my upto date ***academic CV*** from [here](https://bimalka98.github.io/assets/myCVs/BPT_academic_CV.pdf). 😃
 
 
@@ -60,14 +55,12 @@
 
 ---
 
-*NOTE: `Most Used languages` does not indicate my skill level or something like that and it's a GitHub metric of which languages I have the most code on GitHub. Moreover, languages in the repositories which are not publicized yet are not taken into account when calculating the percentages.*
-<!--dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula-->
+### *Wanna reach me?*
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  layout=compact-->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bimalka98&layout=compact&theme=gruvbox&langs_count=10" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bimalka98&show_icons=true&theme=gruvbox&line_height=27&count_private=true&show_owner=false" />
-</a>
+- Feel free to drop a line via [email](mailto:bimalkapiyaruwan1998322@gmail.com)
+- You may also find me on 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/bimalka-piyaruwan/) and
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/94750296594/)
+
+
 
