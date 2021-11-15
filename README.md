@@ -23,7 +23,7 @@
 - 🌱 I’m currently learning *Graph Neural Networks; Data structures, Algorithms, Object Oriented Programming in Python; C++ Concepts for Industrial Applications* and *whatever possible*. 😂
 - 📈 After the graduation, I would like to join the industry and apply what I have already learnt to solve real world problems while developing myself through exploring new areas of interest.😎
 - 💬 Ask me about anything [here](https://github.com/bimalka98/bimalka98/issues). If it is something I know, I can help you! 😉 
-- 🎯 You can see my upto date ***academic CV*** from [here](https://bimalka98.github.io/assets/myCVs/BPT_academic_CV.pdf). 😃
+- 🎯 You can see my upto date ***academic CV*** from [here](https://bimalka98.github.io/assets/myCVs/master/BPT_academic_CV.pdf). 😃
 
 
 ---
