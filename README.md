@@ -5,7 +5,6 @@
 [![Awesome Badges](https://img.shields.io/badge/Problem-Solver-blue)]()
 [![Awesome Badges](https://img.shields.io/badge/Strive-For%20Excellence-blue)]()
 [![Awesome Badges](https://img.shields.io/badge/Love-Electronics-blue)]()
-[![Awesome Badges](https://img.shields.io/badge/%20-Telecommunication-blue)]()
 [![Awesome Badges](https://img.shields.io/badge/%20-Machine%20Vision-blue)]()
 [![Awesome Badges](https://img.shields.io/badge/%20-Deep%20Learning-blue)]()
 
@@ -19,9 +18,9 @@
 
 ### *Hi there,  👋 I'm Bimalka. A third-year undergraduate in the [Department of Electronic and Telecommunication Engineering](https://ent.uom.lk/) at the [University of Moratuwa](https://uom.lk/) in [Sri Lanka](https://en.wikipedia.org/wiki/Sri_Lanka).*
 
-- 🔭 I’m currently working on two projects. Namely, an *FPGA based task specific processor development* and an *electronic product development* to improve the efficiency of public transportation(busses) in Sri Lanka. You can see the projects done by me upto now, in my [repositories](https://github.com/bimalka98?tab=repositories)
-- 🌱 I’m currently learning *Graph Neural Networks; Data structures, Algorithms, Object Oriented Programming in Python; C++ Concepts for Industrial Applications* and *whatever possible*. 😂
-- 📈 After the graduation, I would like to join the industry and apply what I have already learnt to solve real world problems while developing myself through exploring new areas of interest.😎
+- 🔭 I’m currently undergoing my industrial training at a local Research and Development facility where I am working on Machine Vision based Real Time Motion Planning for an Articulated Robot Arm.
+- 🌱 I’m currently learning *Data structures, Algorithms, Object Oriented Programming in C++  and Python as well as some Machine Learning* and *whatever possible*. 😂
+- 📈 After the graduation, I would like to join the industry and apply what I have already learnt to solve real world problems while developing myself through exploring new areas of interest.😎 Because I believe in **applying** rather than **keep learning** all the shits in the world.
 - 💬 Ask me about anything [here](https://github.com/bimalka98/bimalka98/issues). If it is something I know, I can help you! 😉 
 - 🎯 You can see my upto date ***academic CV*** from [here](https://bimalka98.github.io/assets/myCVs/master/BPT_academic_CV.pdf). 😃
 
