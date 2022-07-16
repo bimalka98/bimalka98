@@ -18,7 +18,7 @@
 
 ### *Hi there,  👋 I'm Bimalka. A third-year undergraduate in the [Department of Electronic and Telecommunication Engineering](https://ent.uom.lk/) at the [University of Moratuwa](https://uom.lk/) in [Sri Lanka](https://en.wikipedia.org/wiki/Sri_Lanka).*
 
-- 🔭 I’m currently undergoing my industrial training at a local Research and Development facility where I am working on Machine Vision based Real Time Motion Planning for an Articulated Robot Arm.
+- 🔭 I’m currently not involved in any project and willing to contribute to any. I completed my industrial training at a local Research and Development facility where I worked on Machine Vision based Real Time Motion Planning for an Articulated Robot Arm.
 - 🌱 I’m currently learning *Data structures, Algorithms, Object Oriented Programming in C++  and Python as well as some Machine Learning* and *whatever possible*. 😂
 - 📈 After the graduation, I would like to join the industry and apply what I have already learnt to solve real world problems while developing myself through exploring new areas of interest.😎 Because I believe in **applying** rather than **keep learning** all the shits in the world.
 - 💬 Ask me about anything [here](https://github.com/bimalka98/bimalka98/issues). If it is something I know, I can help you! 😉 
