@@ -16,10 +16,10 @@
 <!--</a>-->
 
 
-### *Hi there,  👋 I'm Bimalka. A third-year undergraduate in the [Department of Electronic and Telecommunication Engineering](https://ent.uom.lk/) at the [University of Moratuwa](https://uom.lk/) in [Sri Lanka](https://en.wikipedia.org/wiki/Sri_Lanka).*
+### *Hi there,  👋 I'm Bimalka. A final-year undergraduate in the [Department of Electronic and Telecommunication Engineering](https://ent.uom.lk/) at the [University of Moratuwa](https://uom.lk/) in [Sri Lanka](https://en.wikipedia.org/wiki/Sri_Lanka).*
 
-- 🔭 I’m currently not involved in any project and willing to contribute to any. I completed my industrial training at a local Research and Development facility where I worked on Machine Vision based Real Time Motion Planning for an Articulated Robot Arm.
-- 🌱 I’m currently learning *Data structures, Algorithms, Object Oriented Programming in C++  and Python as well as some Machine Learning* and *whatever possible*. 😂
+- 🔭 I’m currently not involved in any project and willing to contribute to any. I completed my industrial training in July 2022 at a local Research and Development facility where I worked on Machine Vision based Real Time Motion Planning for an Articulated Robot Arm.
+- 🌱 I’m currently learning and/or refreshing my knowledge on *Data structures, Algorithms, Object Oriented Programming in C++  and Python as well as some Machine Learning* and *whatever possible*. 😂
 - 📈 After the graduation, I would like to join the industry and apply what I have already learnt to solve real world problems while developing myself through exploring new areas of interest.😎 Because I believe in **applying** rather than **keep learning** all the shits in the world.
 - 💬 Ask me about anything [here](https://github.com/bimalka98/bimalka98/issues). If it is something I know, I can help you! 😉 
 - 🎯 You can see my upto date ***academic CV*** from [here](https://bimalka98.github.io/assets/myCVs/master/BPT_academic_CV.pdf). 😃
@@ -36,21 +36,42 @@
  </a>
 </code> -->
 
-**Languages    :**
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"></code>
-<code><img height="30" src="https://github.com/bimalka98/bimalka98/blob/master/Logos/c-programming.svg"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/1200px-LaTeX_logo.svg.png"></code>
+**Machine Learning/Data Analysis:**
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/5/53/OpenCV_Logo_with_text.png"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg"></code>
 
-**Tools        :**
+**Programming    :**
+<code><img height="33" src="https://github.com/bimalka98/bimalka98/blob/master/Logos/c-programming.svg"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"></code>
+<code><img height="30" src="https://github.com/bimalka98/bimalka98/blob/master/Logos/csharp.svg"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png"></code>
+
+**Embedded Systems Design:**
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Altium_Designer_logo.png"></code>
 <code><img height="30" src="https://blog.digilentinc.com/wp-content/uploads/2015/01/184_multisim_app_icon_ill.png"></code>
 <code><img height="30" src="https://banner2.cleanpng.com/20180328/ezw/kisspng-solidworks-computer-aided-design-3d-computer-graph-work-5abb8876c7bd12.1780632115222396068181.jpg"></code>
-<code><img height="32" src="https://png4u.com/wp-content/uploads/2019/09/Adobe-Photoshop-CC-PNG-Logo-1024x999.png"></code>
+<code><img height="30" src="https://www.raspberrypi.org/wp-content/uploads/2012/03/raspberry-pi-logo.png"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Atmel_logo_svg.svg"></code>
+
+**Other Tools        :**
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg"></code>
-<code><img height="30" src="https://seeklogo.com/images/A/atom-logo-19BD90FF87-seeklogo.com.png"></code>
 <code><img height="30" src="https://github.com/bimalka98/bimalka98/blob/master/Logos/visual-studio-code.svg"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/1200px-LaTeX_logo.svg.png"></code>
+<code><img height="32" src="https://png4u.com/wp-content/uploads/2019/09/Adobe-Photoshop-CC-PNG-Logo-1024x999.png"></code>
+
+
+---
+
+
+### *My GitHub Stats*
+<p float="left">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bimalka98&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bimalka98&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</p>
 
 ---
 
@@ -58,15 +79,5 @@
 
 - Feel free to drop a line via [email](mailto:bimalkapiyaruwan1998322@gmail.com)
 - You may also find me on 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/bimalka98/) and
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/94750296594/)
 
----
-
-<!--
-### My GitHub Stats
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bimalka98&show_icons=true&theme=gruvbox&line_height=27&count_private=true&show_owner=false" />
-</a>
--->
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/bimalka98/) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/94750296594/)
