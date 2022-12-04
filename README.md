@@ -39,8 +39,10 @@
 
 **Machine Learning/Data Analysis:**
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/5/53/OpenCV_Logo_with_text.png"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg"></code>
+
 
 **Programming    :**
 <code><img height="33" src="https://github.com/bimalka98/bimalka98/blob/master/Logos/c-programming.svg"></code>
@@ -62,7 +64,6 @@
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/1200px-LaTeX_logo.svg.png"></code>
-<code><img height="32" src="https://png4u.com/wp-content/uploads/2019/09/Adobe-Photoshop-CC-PNG-Logo-1024x999.png"></code>
 
 
 ---
