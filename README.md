@@ -25,18 +25,6 @@
 - 💬 Ask me about anything [here](https://github.com/bimalka98/bimalka98/issues). If it is something I know, I can help you! 😉 
 
 ---
-### *My Academic CV*
-
-Click the icon to see my most upto date academic CV.
-
-<div align="left">
-  <a href="https://bimalka98.github.io/assets/myCVs/master/BPT_academic_CV.pdf">
-    <img src="Logos/cv.png" alt="Logo" height="150">
-  </a>
-</div>
-
-
----
 
 ### *My Skills*
 
@@ -47,7 +35,7 @@ Click the icon to see my most upto date academic CV.
  </a>
 </code> -->
 
-**Machine Learning/Data Analysis:**
+**Data Analysis:**
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/5/53/OpenCV_Logo_with_text.png"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg"></code>
@@ -62,11 +50,12 @@ Click the icon to see my most upto date academic CV.
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png"></code>
 
 **Embedded Systems Design:**
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Altium_Designer_logo.png"></code>
-<code><img height="30" src="https://blog.digilentinc.com/wp-content/uploads/2015/01/184_multisim_app_icon_ill.png"></code>
-<code><img height="30" src="https://banner2.cleanpng.com/20180328/ezw/kisspng-solidworks-computer-aided-design-3d-computer-graph-work-5abb8876c7bd12.1780632115222396068181.jpg"></code>
 <code><img height="30" src="https://www.raspberrypi.org/wp-content/uploads/2012/03/raspberry-pi-logo.png"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Atmel_logo_svg.svg"></code>
+<!-- <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Altium_Designer_logo.png"></code> -->
+<!-- <code><img height="30" src="https://blog.digilentinc.com/wp-content/uploads/2015/01/184_multisim_app_icon_ill.png"></code> -->
+<!-- <code><img height="30" src="https://banner2.cleanpng.com/20180328/ezw/kisspng-solidworks-computer-aided-design-3d-computer-graph-work-5abb8876c7bd12.1780632115222396068181.jpg"></code> -->
+
 
 **Other Tools        :**
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg"></code>
@@ -84,6 +73,24 @@ Click the icon to see my most upto date academic CV.
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bimalka98&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bimalka98&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
+
+---
+
+### *My Academic CV*
+<!-- 
+|**Academic CV**|**LinkedIn Profile**|
+|:----:|:----:|
+|<a href="https://bimalka98.github.io/assets/myCVs/master/BPT_academic_CV.pdf"><img src="Logos/cv.png" alt="Logo" height="150"></a>|<a href="https://www.linkedin.com/in/bimalka98/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="Logo" height="150"></a>|
+ -->
+ 
+*Click the icon to see my most upto date academic CV.* 😁
+
+<div align="left">
+  <a href="https://bimalka98.github.io/assets/myCVs/master/BPT_academic_CV.pdf">
+    <img src="Logos/cv.png" alt="Logo" height="150">
+  </a>
+</div>
+
 
 ---
 
