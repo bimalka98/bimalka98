@@ -23,7 +23,17 @@
 - 🌱 I’m currently learning and/or refreshing my knowledge on *Data structures, Algorithms, Object Oriented Programming in C++  and Python as well as some Machine Learning* and *whatever possible*. 😂
 - 📈 After the graduation, I would like to join the industry and apply what I have already learnt to solve real world problems while developing myself through exploring new areas of interest.😎 Because I believe in **applying** rather than **keep learning** all the shits in the world.
 - 💬 Ask me about anything [here](https://github.com/bimalka98/bimalka98/issues). If it is something I know, I can help you! 😉 
-- 🎯 You can see my upto date ***academic CV*** from [here](https://bimalka98.github.io/assets/myCVs/master/BPT_academic_CV.pdf). 😃
+
+---
+### *My Academic CV*
+
+Click the icon to see my most upto date academic CV.
+
+<div align="left">
+  <a href="https://bimalka98.github.io/assets/myCVs/master/BPT_academic_CV.pdf">
+    <img src="Logos/cv.png" alt="Logo" height="150">
+  </a>
+</div>
 
 
 ---
