@@ -82,7 +82,7 @@
 |:----:|:----:|
 |<a href="https://bimalka98.github.io/assets/myCVs/master/BPT_academic_CV.pdf"><img src="Logos/cv.png" alt="Logo" height="150"></a>|<a href="https://www.linkedin.com/in/bimalka98/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="Logo" height="150"></a>|
  -->
- 
+
 *Click the icon to see my most upto date academic CV.* 😁
 
 <div align="left">
@@ -91,12 +91,11 @@
   </a>
 </div>
 
-
+<!--
 ---
 
 ### *Wanna reach me?*
 
 - Feel free to drop a line via [email](mailto:bimalkapiyaruwan1998322@gmail.com)
-- You may also find me on 
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/bimalka98/) 
+- You may also find me on [LinkedIn](https://www.linkedin.com/in/bimalka98/)
+-->
