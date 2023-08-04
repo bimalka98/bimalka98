@@ -16,12 +16,12 @@
 <!--</a>-->
 
 
-### *Hi there,  👋 I'm Bimalka. A final-year undergraduate in the [Department of Electronic and Telecommunication Engineering](https://ent.uom.lk/) at the [University of Moratuwa](https://uom.lk/) in [Sri Lanka](https://en.wikipedia.org/wiki/Sri_Lanka).*
+### *Hi there,  👋 I'm Bimalka. A graduate of the [Department of Electronic and Telecommunication Engineering](https://ent.uom.lk/) at the [University of Moratuwa](https://uom.lk/) in [Sri Lanka](https://en.wikipedia.org/wiki/Sri_Lanka).*
 
-- 🔭 I’m currently involved in my *Final Year Project* of my undergraduate degree program which is related to **Autonomous Navigation of a Robot Vehicle**. Our main focus is on, modeling vehicle dynamics to predict the future state (position and orientation), and then use *Real-time kinematic*, *Global Positioning System*  (RTK/GPS) and *Light Detection and Ranging* (LIDAR) to correct the state.
-- ⭐ I completed my undergraduate level internsip in July 2022 at a local Research and Development facility where I worked on **Machine Vision based Real Time Motion Planning for an Articulated Robot Arm**.
+- 📈 I believe in **applying** rather than **keep learning** all the shits in the world. So I joined the industry after graduation. I love applying what I have learned to solve real-world problems while developing myself through exploring new areas of interest.
+- 🔭 I completed the *Final Year Project* of my undergraduate degree program which is related to **Autonomous Navigation of a Robot Vehicle**, in June 2023. Our main focus was on, modeling vehicle dynamics to predict the future state (position and orientation), and then using *Real-time kinematic*, *Global Positioning System*  (RTK/GPS), and *Light Detection and Ranging* (LIDAR) to correct the state.
+- ⭐ I completed my undergraduate level internship in July 2022 at a local Research and Development facility where I worked on **Machine Vision based Real-Time Motion Planning for an Articulated Robot Arm**.
 - 🌱 I’m currently learning and/or refreshing my knowledge on *Data structures, Algorithms, Object Oriented Programming in C++  and Python as well as some Machine Learning* and *whatever possible*. 😂
-- 📈 After the graduation, I would like to join the industry and apply what I have already learnt to solve real world problems while developing myself through exploring new areas of interest.😎 Because I believe in **applying** rather than **keep learning** all the shits in the world.
 - 💬 Ask me about anything [here](https://github.com/bimalka98/bimalka98/issues). If it is something I know, I can help you! 😉 
 
 ---
