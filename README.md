@@ -18,10 +18,13 @@
 
 ### *Hi there,  👋 I'm Bimalka. A graduate of the [Department of Electronic and Telecommunication Engineering](https://ent.uom.lk/) at the [University of Moratuwa](https://uom.lk/) in [Sri Lanka](https://en.wikipedia.org/wiki/Sri_Lanka).*
 
-- 📈 I believe in **applying** rather than **keep learning** all the shits in the world. So I joined the industry after graduation. I love applying what I have learned to solve real-world problems while developing myself through exploring new areas of interest.
-- 🔭 I completed the *Final Year Project* of my undergraduate degree program which is related to **Autonomous Navigation of a Robot Vehicle**, in June 2023. Our main focus was on, modeling vehicle dynamics to predict the future state (position and orientation), and then using *Real-time kinematic*, *Global Positioning System*  (RTK/GPS), and *Light Detection and Ranging* (LIDAR) to correct the state.
-- ⭐ I completed my undergraduate level internship in July 2022 at a local Research and Development facility where I worked on **Machine Vision based Real-Time Motion Planning for an Articulated Robot Arm**.
-- 🌱 I’m currently learning and/or refreshing my knowledge on *Data structures, Algorithms, Object Oriented Programming in C++  and Python as well as some Machine Learning* and *whatever possible*. 😂
+
+* 📈 I believe in **applying** my knowledge rather than **continuously learning** without practical application. After graduation, I joined the industry to apply what I had learned and solve real-world problems while developing myself through exploring new areas of interest.
+* 🔭 Among the major projects that I have contributed to,
+    - In June 2023, I completed the *Final Year Project* of my undergraduate degree program, **AutoPilotX: an Advanced autonomous navigation technology designed specifically for outdoor, semi-structured, and terrain-based applications**. The unique aspect of the robot lies in its utilization of a combination of 3D LiDAR, RTK/GPS, wheel odometry, and IMU for navigation purposes. Therefore, the potential applications include precision agriculture, autonomous security, autonomous carts, disaster management, and research.
+ 
+    - In July 2022, I completed my undergraduate-level internship at a local Research and Development facility, where I worked on **Machine Vision-based Real-Time Motion Planning for an Articulated Robot Arm**, which was a project to develop a Computer Vision subsystem for a pick-and-place machine (a 6 DOF Articulated Robot Arm), to determine grasping configurations of a set of objects.
+* 🌱 I am currently learning and refreshing my knowledge of *Data structures, Algorithms, and Object-Oriented Programming in C++ and Python, as well as some Machine Learning* and other relevant topics. 😊
 - 💬 Ask me about anything [here](https://github.com/bimalka98/bimalka98/issues). If it is something I know, I can help you! 😉 
 
 ---
@@ -42,7 +45,7 @@
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg"></code>
 
 
-**Programming    :**
+**Programming:**
 <code><img height="33" src="https://github.com/bimalka98/bimalka98/blob/master/Logos/c-programming.svg"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"></code>
 <code><img height="30" src="https://github.com/bimalka98/bimalka98/blob/master/Logos/csharp.svg"></code>
@@ -51,13 +54,13 @@
 
 **Embedded Systems Design:**
 <code><img height="30" src="https://www.raspberrypi.org/wp-content/uploads/2012/03/raspberry-pi-logo.png"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Atmel_logo_svg.svg"></code>
-<!-- <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Altium_Designer_logo.png"></code> -->
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Atmel_logo.svg"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg"></code>
 <!-- <code><img height="30" src="https://blog.digilentinc.com/wp-content/uploads/2015/01/184_multisim_app_icon_ill.png"></code> -->
 <!-- <code><img height="30" src="https://banner2.cleanpng.com/20180328/ezw/kisspng-solidworks-computer-aided-design-3d-computer-graph-work-5abb8876c7bd12.1780632115222396068181.jpg"></code> -->
 
 
-**Other Tools        :**
+**Other Tools:**
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg"></code>
 <code><img height="30" src="https://github.com/bimalka98/bimalka98/blob/master/Logos/visual-studio-code.svg"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg"></code>
