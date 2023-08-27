@@ -16,14 +16,14 @@
 <!--</a>-->
 
 
-### *Hi there,  👋 I'm Bimalka. A graduate of the [Department of Electronic and Telecommunication Engineering](https://ent.uom.lk/) at the [University of Moratuwa](https://uom.lk/) in [Sri Lanka](https://en.wikipedia.org/wiki/Sri_Lanka).*
+### *Hi there,  👋 I'm Bimalka. A graduate of the [Department of Electronic and Telecommunication Engineering](https://ent.uom.lk/) at the [University of Moratuwa](https://uom.lk/) in [Sri Lanka](https://en.wikipedia.org/wiki/Sri_Lanka). I'm currently working as an Embedded Software Engineer, in [Analog Inference](https://www.analog-inference.com/), USA (remote).* 
 
 
 * 📈 I believe in **applying** my knowledge rather than **continuously learning** without practical application. After graduation, I joined the industry to apply what I had learned and solve real-world problems while developing myself through exploring new areas of interest.
 * 🔭 Among the major projects that I have contributed to,
-    - In June 2023, I completed the *Final Year Project* of my undergraduate degree program, **AutoPilotX: an Advanced autonomous navigation technology designed specifically for outdoor, semi-structured, and terrain-based applications**. The unique aspect of the robot lies in its utilization of a combination of 3D LiDAR, RTK/GPS, wheel odometry, and IMU for navigation purposes. Therefore, the potential applications include precision agriculture, autonomous security, autonomous carts, disaster management, and research.
- 
-    - In July 2022, I completed my undergraduate-level internship at a local Research and Development facility, where I worked on **Machine Vision-based Real-Time Motion Planning for an Articulated Robot Arm**, which was a project to develop a Computer Vision subsystem for a pick-and-place machine (a 6 DOF Articulated Robot Arm), to determine grasping configurations of a set of objects.
+    - In June 2023, I completed the *Final Year Project* of my undergraduate degree program, [**AutoPilotX: an Advanced autonomous navigation technology designed specifically for outdoor, semi-structured, and terrain-based applications**](https://www.linkedin.com/posts/bimalka98_autonomousvehicles-ugv-mobilerobots-activity-7098502042712776704-DxyF?utm_source=share&utm_medium=member_desktop). The unique aspect of the robot lies in its utilization of a combination of 3D LiDAR, RTK/GPS, wheel odometry, and IMU for navigation purposes. Therefore, the potential applications include precision agriculture, autonomous security, autonomous carts, disaster management, and research.
+
+    - In July 2022, I completed my undergraduate-level internship at a local Research and Development facility, where I worked on [**Machine Vision-based Real-Time Motion Planning for an Articulated Robot Arm**](https://www.linkedin.com/posts/bimalka98_potential-internship-engineering-activity-6973307404562157568-F9eA?utm_source=share&utm_medium=member_desktop), which was a project to develop a Computer Vision subsystem for a pick-and-place machine (a 6 DOF Articulated Robot Arm), to determine grasping configurations of a set of objects.
 * 🌱 I am currently learning and refreshing my knowledge of *Data structures, Algorithms, and Object-Oriented Programming in C++ and Python, as well as some Machine Learning* and other relevant topics. 😊
 - 💬 Ask me about anything [here](https://github.com/bimalka98/bimalka98/issues). If it is something I know, I can help you! 😉 
 
