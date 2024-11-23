@@ -17,7 +17,7 @@
 
 ### Hi there 👋
 
-Bimalka is a full-time Embedded Software Engineer (remote) at Analog Inference, Santa Clara, CA.
+Bimalka is a full-time Embedded Software Engineer (remote) at Sagence AI, Santa Clara, CA.
 
 * He graduated with an Honors Degree of B. Sc. of Engineering (Electronic, Telecommunication & Computing) from the University of Moratuwa in Sri Lanka, in July 2023.
 * He is a driven and passionate professional who is exploring the fields of:
