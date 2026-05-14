@@ -19,7 +19,7 @@
 
 Bimalka is a full-time Embedded Software Engineer (remote) at Sagence AI, Santa Clara, CA.
 
-* He graduated with an Honors Degree of B. Sc. of Engineering (Electronic, Telecommunication & Computing) from the University of Moratuwa in Sri Lanka, in July 2023.
+* He graduated with an Honours Degree of B. Sc. of Engineering (Electronic, Telecommunication & Computing) from the University of Moratuwa in Sri Lanka, in July 2023.
 * He is a driven and passionate professional who is exploring the fields of:
     - Computer Vision & Image Processing<br>
     - Embedded Software<br>
@@ -33,7 +33,7 @@ Bimalka is a full-time Embedded Software Engineer (remote) at Sagence AI, Santa 
 > I believe in **applying** knowledge, rather than **continuously learning** without practical application. It's the only way to master a discipline ~ Bimalka 📈
 
 - In June 2023, I completed the Final Year Project of my undergraduate degree program, [**AutoPilotX: an Advanced autonomous navigation technology designed specifically for outdoor, semi-structured, and terrain-based applications**](https://www.linkedin.com/posts/bimalka98_autonomousvehicles-ugv-mobilerobots-activity-7098502042712776704-DxyF).
-    - The unique aspect of the robot lies in its utilization of a combination of 3D LiDAR, RTK/GPS, wheel odometry, and IMU for navigation purposes.
+    - The unique aspect of the robot lies in its utilisation of a combination of 3D LiDAR, RTK/GPS, wheel odometry, and IMU for navigation purposes.
     - Therefore, the potential applications include precision agriculture, autonomous security, autonomous carts, disaster management, and research.
 
 - In July 2022, I completed my undergraduate-level internship at a local Research and Development facility, where I worked on [**Machine Vision-based Real-Time Motion Planning for an Articulated Robot Arm**](https://www.linkedin.com/posts/bimalka98_potential-internship-engineering-activity-6973307404562157568-F9eA),
@@ -76,7 +76,7 @@ Bimalka is a full-time Embedded Software Engineer (remote) at Sagence AI, Santa 
 <code><img height="30" src="https://github.com/bimalka98/bimalka98/blob/master/Logos/visual-studio-code.svg"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/1200px-LaTeX_logo.svg.png"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original"></code>
 
 
 ---
