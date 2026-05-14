@@ -1,0 +1,9 @@
+            - name: GitHub Readme Stats Action
+# You may pin to the exact commit or the version.
+# uses: stats-organization/github-readme-stats-action@d82657a0e215a28ec48bfc9b3987999a279f93be
+uses: stats-organization/github-readme-stats-action@v1.2.0
+with:
+  card: stats
+  options: username=octocat&show_icons=true&hide_rank=true&bg_color=0D1117
+  token: ${{ secrets.GITHUB_TOKEN }}
+          
