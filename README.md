@@ -83,10 +83,9 @@ Bimalka is a full-time Embedded Software Engineer (remote) at Sagence AI, Santa 
 
 
 ### GitHub Stats
-<p float="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bimalka98&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bimalka98&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</p>
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
+![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
 
 <!-- 
 ---
