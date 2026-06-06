@@ -17,14 +17,15 @@
 
 ### Hi there 👋
 
-Bimalka is a full-time Embedded Software Engineer (remote) at Sagence AI, Santa Clara, CA.
+Bimalka is a Senior Electronics Engineer specialising in embedded software and domain-specific hardware, with a track record of delivering high-impact solutions - from engineering silicon chip characterisation pipelines to building autonomous field robots from the ground up. 
 
-* He graduated with an Honours Degree of B. Sc. of Engineering (Electronic, Telecommunication & Computing) from the University of Moratuwa in Sri Lanka, in July 2023.
-* He is a driven and passionate professional who is exploring the fields of:
+* He is currently deployed as an embedded software developer to Sagence AI Inc. (Santa Clara, CA, USA - remote) through the design services division of Paraqum Technologies (Pvt.) Ltd. in Sri Lanka.
+* He graduated with an Honours Degree of B. Sc. of Engineering (Electronic, Telecommunication & Computing) from the University of Moratuwa, Sri Lanka, in July 2023, and is an Associate Member of the Institution of Engineers Sri Lanka (IESL).
+* He is a disciplined, self-reliant, and deeply curious professional who is exploring the fields of:
     - Computer Vision & Image Processing<br>
     - Embedded Software<br>
     - Computer Systems Architecture<br>
-* He has solid fundamental knowledge and hands-on industry experience in these disciplines, as well as essential soft skills such as leadership, teamwork, consistency, and self-reliance.
+* He has solid fundamental knowledge and ~4 years of hands-on industry experience in these disciplines, as well as essential soft skills such as leadership, teamwork and consistency.
 * His professional goal is to deepen his expertise in these engineering fields while making a positive impact on society through innovation and collaboration.
 
 ---
