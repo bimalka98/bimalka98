@@ -17,9 +17,9 @@
 
 ### Hi there 👋
 
-Bimalka is a Senior Electronics Engineer specialising in embedded software and domain-specific hardware, with a track record of delivering high-impact solutions - from engineering silicon chip characterisation pipelines to building autonomous field robots from the ground up. 
+Bimalka is a Senior Electronics Engineer specialising in systems software and domain-specific hardware, with a track record of delivering high-impact solutions- from engineering chip characterisation pipelines for a Silicon Valley startup to building autonomous field robots from the ground up.
 
-* He is currently deployed as an embedded software developer to Sagence AI Inc. (Santa Clara, CA, USA - remote) through the design services division of Paraqum Technologies (Pvt.) Ltd. in Sri Lanka.
+* He is currently deployed as a systems software developer to Sagence AI Inc. (Santa Clara, CA, USA- remote) through Paraqum Technologies (Pvt.) Ltd.'s design services division, collaborating with cross-functional Research and Development (R&D) teams across Sri Lanka, India, and the USA to build a novel analog in-memory AI inference accelerator.
 * He graduated with an Honours Degree of B. Sc. of Engineering (Electronic, Telecommunication & Computing) from the University of Moratuwa, Sri Lanka, in July 2023, and is an Associate Member of the Institution of Engineers Sri Lanka (IESL).
 * He is a disciplined, self-reliant, and deeply curious professional who is exploring the fields of:
     - Computer Vision & Image Processing<br>
