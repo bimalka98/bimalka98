@@ -31,8 +31,6 @@ Bimalka is a Senior Electronics Engineer specialising in systems software and do
 ---
 
 ### Major Projects
-> I believe in **applying** knowledge, rather than **continuously learning** without practical application. It's the only way to master a discipline ~ Bimalka 📈
-
 - In June 2023, I completed the Final Year Project of my undergraduate degree program, [**AutoPilotX: an Advanced autonomous navigation technology designed specifically for outdoor, semi-structured, and terrain-based applications**](https://www.linkedin.com/posts/bimalka98_autonomousvehicles-ugv-mobilerobots-activity-7098502042712776704-DxyF).
     - The unique aspect of the robot lies in its utilisation of a combination of 3D LiDAR, RTK/GPS, wheel odometry, and IMU for navigation purposes.
     - Therefore, the potential applications include precision agriculture, autonomous security, autonomous carts, disaster management, and research.
