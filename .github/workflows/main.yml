@@ -21,7 +21,7 @@ jobs:
           card: stats
           options: username=${{ github.repository_owner }}&show_icons=true
           path: profile/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.README_STAT_GEN }}
 
       - name: Generate top languages card
         uses: stats-organization/github-readme-stats-action@v1.2.0
@@ -29,7 +29,7 @@ jobs:
           card: top-langs
           options: username=${{ github.repository_owner }}&layout=compact&langs_count=6
           path: profile/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.README_STAT_GEN }}
 
       - name: Generate pin card
         uses: stats-organization/github-readme-stats-action@v1.2.0
@@ -37,7 +37,7 @@ jobs:
           card: pin
           options: username=readme-tools&repo=github-readme-stats
           path: profile/pin-readme-tools-github-readme-stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.README_STAT_GEN }}
 
       - name: Commit cards
         run: |
