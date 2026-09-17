@@ -17,9 +17,8 @@
 
 ### Hi there 👋
 
-Bimalka is a Senior Electronics Engineer specialising in systems software and domain-specific hardware, with a track record of delivering high-impact solutions- from engineering chip characterisation pipelines for a Silicon Valley startup to building autonomous field robots from the ground up.
+Bimalka is a senior electronics engineer specialising in low-level software for embedded and hardware-adjacent systems, with a track record of delivering high-impact solutions - from engineering chip characterisation pipelines for a Silicon Valley startup to building autonomous field robots from the ground up.
 
-* He is currently deployed as a systems software developer to Sagence AI Inc. (Santa Clara, CA, USA- remote) through Paraqum Technologies (Pvt.) Ltd.'s design services division, collaborating with cross-functional Research and Development (R&D) teams across Sri Lanka, India, and the USA to build a novel analog in-memory AI inference accelerator.
 * He graduated with an Honours Degree of B. Sc. of Engineering (Electronic, Telecommunication & Computing) from the University of Moratuwa, Sri Lanka, in July 2023, and is an Associate Member of the Institution of Engineers Sri Lanka (IESL).
 * He is a disciplined, self-reliant, and deeply curious professional who is exploring the fields of:
     - Computer Vision & Image Processing<br>
@@ -30,13 +29,18 @@ Bimalka is a Senior Electronics Engineer specialising in systems software and do
 
 ---
 
-### Major Projects
+### Professional Experience/ Major Projects
+- In Aug 2026, I completed 3 years of service as a Systems Software Developer at Sagence AI Corporation, Santa Clara, CA, USA (remote). There, I collaborated with cross-functional Research and Development (R&D) teams across Sri Lanka, India, and the USA to build a novel analog in-memory AI inference accelerator. Engaged through Paraqum Technologies (Pvt.) Ltd., a Sri Lanka-based design services partner.
+    - Engineered Assembly microcode (custom ISA) and Python APIs for: 1) wafer sorting, 2) Multi-Level Cell (MLC) weight programming, and 3) memory characterisation of the accelerator chip.
+    - Accelerated weight programming and full-chip characterisation time from hours to minutes through parallelised computing block weight loading & inference, NumPy vectorisation and necessary driver upgrades.
+    - Architected a full-stack internal GUI application using AI-assisted development tools to manage input vectors, run hardware inference pipelines, and analyse performance metrics.
+
 - In June 2023, I completed the Final Year Project of my undergraduate degree program, [**AutoPilotX: an Advanced autonomous navigation technology designed specifically for outdoor, semi-structured, and terrain-based applications**](https://www.linkedin.com/posts/bimalka98_autonomousvehicles-ugv-mobilerobots-activity-7098502042712776704-DxyF).
-    - The unique aspect of the robot lies in its utilisation of a combination of 3D LiDAR, RTK/GPS, wheel odometry, and IMU for navigation purposes.
-    - Therefore, the potential applications include precision agriculture, autonomous security, autonomous carts, disaster management, and research.
+    - Developed a generic field robot with autonomous navigation capable of operating in a semi-structured outdoor environment, focusing on: 1) optimal fusion of LiDAR, Vision, IMU & RTK sensors for precise pose estimation, 2) Robot Operating System (ROS1)-based software stack.
+    - The potential applications include precision agriculture, autonomous security, autonomous carts, disaster management, and research.
 
 - In July 2022, I completed my undergraduate-level internship at a local Research and Development facility, where I worked on [**Machine Vision-based Real-Time Motion Planning for an Articulated Robot Arm**](https://www.linkedin.com/posts/bimalka98_potential-internship-engineering-activity-6973307404562157568-F9eA),
-    - A project to develop a Computer Vision subsystem for a pick-and-place machine (a 6 DOF Articulated Robot Arm), to determine grasping configurations of a given set of objects.
+    - Contributed to developing and/or upgrading algorithms, related software, and firmware of an industrial articulated robot arm that uses computer vision for real-time motion planning.
 
 ---
 
@@ -111,4 +115,4 @@ Bimalka is a Senior Electronics Engineer specialising in systems software and do
 ### Wanna Reach Me?
 
 - I'm hyperactive on [LinkedIn](https://www.linkedin.com/in/bimalka98/). You can consider it as my resume too! It's always up to date.
-- Otherwise, feel free to drop a line via [email](mailto:bimalkapiyaruwan1998322@gmail.com). But I may take longer to reply, as I do not regularly check my inbox.
+- Otherwise, feel free to drop a line via [email](mailto:bimalka.thalagala@gmail.com). But I may take longer to reply, as I do not regularly check my inbox.
